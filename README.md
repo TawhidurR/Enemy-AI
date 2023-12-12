@@ -13,3 +13,5 @@ To play the game:
 - Use arrow keys (or WASD) to move and the space bar to fire.
 
 
+Skeleton code was provided as this was a project in my CS class. My main objective in the project was developing the AI and behavior of the enemy characters to find close players, make decisions, avoid walls, etc. My program is in game.enemyai.AIPlayer.
+
