@@ -1,0 +1,1 @@
+Welcome to the EnemyAI game! In this project, I programmed the AI for enemy players in a 2D top-down game. The goal was to make the enemies competitive by implementing various AI behaviors, such as finding the closest player, avoiding walls, and making strategic decisions.
